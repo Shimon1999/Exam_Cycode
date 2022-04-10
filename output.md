@@ -22,7 +22,7 @@ $ git init
 $ git add .
 $ git commit -m "first commit"
 $ git branch -M Main
-$ git remote add origin https://github.com/Shimon1999/Cycode_Exam.git
+$ git remote add origin https://github.com/Shimon1999/Exam_Cycode.git
 $ git push -u origin Main
 
 
