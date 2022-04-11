@@ -64,8 +64,7 @@ A. we will go to settings and chose branches, then we will add a new rule:
 
 B. Then we will set the following permissions on the rule:
 ![](images/Branch-rule2.png)
-<<<<<<< HEAD
+
 
 Add signature and fun logo:
-=======
->>>>>>> dcf7b7f692ead963e0d96539aa24d30c52914983
+![](images/FunLogo.png)
